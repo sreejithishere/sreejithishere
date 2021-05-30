@@ -1,6 +1,6 @@
 ## Hi here! <img src="https://github.com/sreejithrkylm/happybirth/blob/main/wave.gif" width="30px">
 
-I am Sreejith, currently working as a full stack developer. I am a tech enthusiast, Find out more about me & feel free to connect with me here:
+I am Sreejith, currently working as a full stack developer. Feel free to connect with me
 
 [![Gmail Badge](https://img.shields.io/badge/-sreejithrkylm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sreejithrkylm@gmail.com)](mailto:sreejithrkylm@gmail.com)
 
