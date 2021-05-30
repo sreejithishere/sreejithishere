@@ -1,4 +1,4 @@
-## Hi here! <img src="https://github.com/sreejithishere/happybirth/blob/main/wave.gif" width="30px">
+## Hi here! <img src="https://github.com/sreejithishere/sreejithishere/blob/main/wave.gif" width="30px">
 
 I am Sreejith, currently working as a full stack developer. Feel free to connect with me
 
