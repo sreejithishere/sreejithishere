@@ -2,9 +2,8 @@
 
 I am Sreejith, currently working as a full stack developer. Feel free to connect with me
 
-[![Gmail Badge](https://img.shields.io/badge/-sreejithrkylm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sreejithrkylm@gmail.com)](mailto:sreejithrkylm@gmail.com)
 
-## ⚡ Technologies
+## ⚡ My passions
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white")
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-White?style=flat-square)
