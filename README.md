@@ -14,6 +14,7 @@ I am Sreejith, currently working as a full stack developer. Feel free to connect
 ![MS Bot Framework](https://img.shields.io/badge/-%20BotFramework-White?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white")
+![React](https://img.shields.io/badge/react-%23DD0031.svg?style=flat-square&logo=react&logoColor=white")
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-black?style=flat-square&logo=mysql)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
